@@ -10,6 +10,6 @@ This repository contains projects I have completed:
 - Logistic Map Explorer
 
 And ones that I am working on:
-- 
+- None right now
 
 
