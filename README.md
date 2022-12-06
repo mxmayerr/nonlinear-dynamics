@@ -12,4 +12,10 @@ This repository contains projects I have completed:
 And ones that I am working on:
 - Newton's Method Explorer
 
+ 
+ **USAGE**
+ Make sure to run the following command in the main directory:
+ 
+ $ pip install -r requirements.txt'''
+
 
