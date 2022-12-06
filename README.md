@@ -8,9 +8,10 @@ The explorer files create GUIs based on the DEGraphics python library. This is c
 This repository contains projects I have completed:
 - Quadratic Equation Explorer
 - Logistic Map Explorer
+- Newton's Method Explorer
 
 And ones that I am working on:
-- Newton's Method Explorer
+
 
  
  **USAGE**
