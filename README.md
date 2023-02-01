@@ -20,7 +20,6 @@ You may need to install libraries for some projects (if it has a requirements.tx
   pip3 install -r requirements.txt
 ```
 
-
 ## Projects
 
 The following projects are included in the repository folder:
@@ -31,4 +30,13 @@ The following projects are included in the repository folder:
   - This explores parts of the logistic map like the bifurcation diagram and the time-series plot
 - **Newton's Method Explorer**
   - This explores the behavior of Newton's Method on various points on the screen
+
+## Images
+
+**Quadratic Equation Explorer**
+<img width="1099" alt="Screen Shot 2023-01-31 at 8 01 15 PM" src="https://user-images.githubusercontent.com/45100981/215919426-8373751e-a028-4812-94cd-aca384d3e087.png">
+**Logistic Map Explorer**
+<img width="1097" alt="Screen Shot 2023-01-31 at 8 02 37 PM" src="https://user-images.githubusercontent.com/45100981/215919549-0b41c2d5-e450-424d-bd14-848145745fc3.png">
+**Newton's Method Explorer**
+<img width="1098" alt="Screen Shot 2023-01-31 at 8 04 36 PM" src="https://user-images.githubusercontent.com/45100981/215919792-fcd594a2-dee0-4925-a57a-16d6bbcc94d2.png">
 
