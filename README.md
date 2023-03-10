@@ -8,6 +8,7 @@ Welcome to my Nonlinear Dynamics project repository.
  - [Nonlinear System - Wikipedia](https://en.wikipedia.org/wiki/Nonlinear_system)
  - [Newton's Method - Wikipedia](https://en.wikipedia.org/wiki/Newton's_method)
  - [Logistic Map - Wikipedia](https://en.wikipedia.org/wiki/Logistic_map)
+ - [Mandelbrot Set - Wikipedia](https://en.wikipedia.org/wiki/Mandelbrot_set)
 
 
 ## Running My Code
@@ -30,6 +31,8 @@ The following projects are included in the repository folder:
   - This explores parts of the logistic map like the bifurcation diagram and the time-series plot
 - **Newton's Method Explorer**
   - This explores the behavior of Newton's Method on various points on the screen
+- **Mandelbrot Set Explorer**
+  - Explores the fractal geometry and behavior of the Mandelbrot and Julia Sets
 
 ## Images
 
