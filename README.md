@@ -1,7 +1,7 @@
 
 # Nonlinear Dynamics
 
-Welcome to my Nonlinear Dynamics project repository.
+Welcome to my Nonlinear Dynamics (Dwighr-Englewood High School) project repository.
 
 ## Learn 
 
@@ -9,6 +9,7 @@ Welcome to my Nonlinear Dynamics project repository.
  - [Newton's Method - Wikipedia](https://en.wikipedia.org/wiki/Newton's_method)
  - [Logistic Map - Wikipedia](https://en.wikipedia.org/wiki/Logistic_map)
  - [Mandelbrot Set - Wikipedia](https://en.wikipedia.org/wiki/Mandelbrot_set)
+ - [Koch Snowflake - Wikipedia](https://en.wikipedia.org/wiki/Koch_snowflake)
 
 
 ## Running My Code
@@ -33,6 +34,8 @@ The following projects are included in the repository folder:
   - This explores the behavior of Newton's Method on various points on the screen
 - **Mandelbrot Set Explorer**
   - Explores the fractal geometry and behavior of the Mandelbrot and Julia Sets
+- **Koch Curve Explorer**
+  - Explores the Koch curve and snowflake through a recursive process
 
 ## Images
 
